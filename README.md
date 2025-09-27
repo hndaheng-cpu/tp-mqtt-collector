@@ -1,8 +1,3 @@
-好的 👍  
-我在 README.md 中加入 **系统架构图** 和 **消息流程图**（基于 Mermaid 语法，GitHub 可直接渲染），让文档更直观、专业。
-
----
-
 # ThinkPHP MQTT 数据采集扩展包
 
 **tp-mqtt-collector** 是一个专为 ThinkPHP 设计的 MQTT 数据采集扩展包，支持自动解析 JSON 消息、动态映射数据库表、自动建表、字段类型识别和索引建议，适用于物联网(IoT)数据采集场景。
