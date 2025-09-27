@@ -262,5 +262,3 @@ MIT License
 - [Predis](https://github.com/nrk/predis) - PHP Redis 客户端
 
 ---
-
-✅ 现在 README.md 包含了 **架构图**、**流程图**、**详细功能说明** 和 **使用教程**，完全符合一个专业开源扩展包的文档标准。你可以直接将其上传到 GitHub 并发布到 Packagist。
