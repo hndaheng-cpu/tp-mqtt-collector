@@ -80,7 +80,7 @@ sequenceDiagram
 
 ### 1. 安装扩展包
 ```bash
-composer require yourname/tp-mqtt-collector
+composer require phoneda/tp-mqtt-collector
 ```
 
 ### 2. 发布配置文件
